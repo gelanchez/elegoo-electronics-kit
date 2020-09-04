@@ -2,7 +2,7 @@
  * @file 05-Digital_inputs.ino
  * @brief Push buttons with digital inputs to turn an LED on and off.
  * Pressing the button will turn the LED on; pressing the other button
- *  will turn the LED off.
+ * will turn the LED off.
  * @version 0.0.1
  * @date 2020-09-04
  * @copyright GPL-3.0
