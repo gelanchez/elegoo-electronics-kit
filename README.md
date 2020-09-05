@@ -3,13 +3,13 @@ Arduino simple examples to play with using the [Elegoo Electronics Fun Kit - E3]
 
 List of examples provided:
 - *Serial*. Simple serial communication.
-- *Blink*. Turns on and off a LED.
+- *Blink*. Turn on and off a LED.
 - *RGB_LED*. Different colors in a RGB LED.
 - *Digital_inputs*. Push buttons changing the state of a LED.
-- *Active_buzzer*. Generates a sound with an active buzzer.
-- *Pasive_buzzer*. Generates different sounds using a pasive buzzer.
-- *Serial_to_parallel*. Drives 8 LEDs using a 74HC595 serial to parallel converter.
-- *Serial_monitor*.
+- *Active_buzzer*. Generate a sound with an active buzzer.
+- *Pasive_buzzer*. Generate different sounds using a pasive buzzer.
+- *Serial_to_parallel*. Drive 8 LEDs using a 74HC595 serial to parallel converter.
+- *Serial_monitor*. Control 8 LEDs from the serial monitor through a 74HC595 serial to parallel converter.
 - *Photocell*.
 
 ## Usage
