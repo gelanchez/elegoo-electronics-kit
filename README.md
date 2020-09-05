@@ -1,5 +1,16 @@
 # Elegoo electronics kit
-Arduino simple examples to play with using the [Elegoo Electronics Fun Kit - E3](https://www.elegoo.com/download/)
+Arduino simple examples to play with using the [Elegoo Electronics Fun Kit - E3](https://www.elegoo.com/download/).
+
+List of examples provided:
+- *Serial*. Simple serial communication.
+- *Blink*. Turns on and off a LED.
+- *RGB_LED*. Different colors in a RGB LED.
+- *Digital_inputs*. Push buttons changing the state of a LED.
+- *Active_buzzer*. Generates a sound with an active buzzer.
+- *Pasive_buzzer*. Generates different sounds using a pasive buzzer.
+- *Serial_to_parallel*. Drives 8 LEDs using a 74HC595 serial to parallel converter.
+- *Serial_monitor*.
+- *Photocell*.
 
 ## Usage
 Use the schematics provided by Elegoo, which are based on common examples for new commers.
